@@ -42,9 +42,9 @@ export default function Dashboard() {
           ))}
         </tbody>
       </table>
-      <Link to="/new">
+      {/* <Link to="/new">
         <button className="btn">Cadastrar novo cliente</button>
-      </Link>
+      </Link> */}
     </div>
   );
 }
